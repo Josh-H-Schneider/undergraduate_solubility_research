@@ -1,0 +1,12 @@
+AMBER14SB for protein, ff99bsc0 for DNA; ff99bsc0_chiOL3 for RNA
+  
+********************************************************************
+* The primary publication (please cite it) is                      *
+* ff14SB: Improving the Accuracy of Protein Side Chain and         *
+* Backbone Parameters from ff99SB                                  *
+* J.A. Maier, C. Martinez, K. Kasavajhala, L. Wickstrom,           *
+* K.E. Hauser, C. Simmerling                                       *
+* J. Chem. Theory Comput., 11 (2015), p. 3696                      *
+********************************************************************
+
+

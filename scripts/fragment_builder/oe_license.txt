@@ -1,0 +1,188 @@
+################# ACADEMIC LICENSE ##################################
+#                                                                   #
+#   This file is a license for OpenEye Scientific Software.  Any    #
+#   modifications to this file may invalidate the license.          #
+#                                                                   #
+#   The Laboratory of Vincent Voelz                                 #
+#   Temple University                                               #
+#                                                                   #
+#   Mon Jun 28 09:12:00 2021                                        #
+#####################################################################
+#PRODUCT: bioisostere
+#EXP_DATE: 2022 06 28
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: ccfee2207d5d8a2bbbfff52100a6c07de9a8e8c20f40b3e1aa8ac4d7602e6553
+#PRODUCT: docking
+#EXP_DATE: 2022 06 28
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: 5ecb1fa18c893adc76f19b85cc979b53708eb5ca95f8d74815fc2d8e5469015d
+#PRODUCT: eon
+#EXP_DATE: 2022 06 28
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: bfad36fb19e8f9c5c5ba84f0cef84c9c4a069c724df6feb19dad6e98d9d9fc14
+#PRODUCT: fastrocs
+#EXP_DATE: 2022 06 28
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: d373814eb8a2799a39862348b49eb110535b6c3447003316c5c4e26749ce01b0
+#PRODUCT: filter
+#EXP_DATE: 2022 06 28
+#FEATURES: toolkit;python;java;clr
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: 1506005057c7d67f2a4767443d3e35b0e0bc33b0ee003161d577a856c84c51a7
+#PRODUCT: fred2
+#EXP_DATE: 2022 06 28
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: 5d0f7f0b4064ef15707a8f09ec5f5e10e8b29c5ba47dd3828798d958f3a302c8
+#PRODUCT: grapheme
+#EXP_DATE: 2022 06 28
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: 08e8ae61871432b30c87d6cb5e48028f246094bd278f23fcf3a066787371b43d
+#PRODUCT: graphsim
+#EXP_DATE: 2022 06 28
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: cb8a86f3a1dfb981846f3bad4eefd927dfb5fba199fb44e97b422c4f0b4ca743
+#PRODUCT: iupac
+#EXP_DATE: 2022 06 28
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: a8a98815381eddf7f51b013021976bc569439fdba7247ef76959752001ae3d0e
+#PRODUCT: oechem
+#EXP_DATE: 2022 06 28
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: 7302da90065e109a86e680ccd9dd092d8ec3283aa8b8042c8e7d07346fadd1e8
+#PRODUCT: oedepict
+#EXP_DATE: 2022 06 28
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: 655c24694baaf4136cc601a5542db402d12932b3479dae1c1228120166000449
+#PRODUCT: oemedchem
+#EXP_DATE: 2022 06 28
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: fa7a29c4219f0dd9aede9b5ff6967d1e91261ff843d41ef212431b421ccffa62
+#PRODUCT: omega
+#EXP_DATE: 2022 06 28
+#FEATURES: gas-phase;toolkit;python;java;clr
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: 6d6ba6a1f38d1311276807d5509f6c59a6110b1c6bb2eea2c05af1d7c360f9ef
+#PRODUCT: omega-db
+#EXP_DATE: 2022 06 28
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: 2754b9665c04b3634d901093ec179e3008a9185bd08f3be5db9ef22d8ef9c21d
+#PRODUCT: posit
+#EXP_DATE: 2022 06 28
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: c5237809a983f1ff66800214bcbb880127ed418553c558f9b5be1cccd4e27839
+#PRODUCT: quacpac
+#EXP_DATE: 2022 06 28
+#FEATURES: beta;python;java;clr
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: 2049d8e057c61eedb8faa11ee2c0a6121baee5ad581e6c0934438bc438bba6c5
+#PRODUCT: rocs
+#EXP_DATE: 2022 06 28
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: be80675f7a3a37a6bdc3d8f05547192814671f00c409d5ac08fdec866962be0f
+#PRODUCT: shape
+#EXP_DATE: 2022 06 28
+#FEATURES: molecules;grids;python;java;clr
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: e201adaa6ffd9efa6999bcf23ab83837e1c505c273e6924485d7a05131238a62
+#PRODUCT: sitehoppertk
+#EXP_DATE: 2022 06 28
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: 2c1ecc645534fdde8fb07934f78962f20a416c60547897da3c1e26a0777e74ee
+#PRODUCT: sitehopper
+#EXP_DATE: 2022 06 28
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: 0431c9d0dae32de79c3c9ef120a363b3f903b8739e1a7d7d0857c639e1d1c88a
+#PRODUCT: spicoli
+#EXP_DATE: 2022 06 28
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: 9261fd161730efef608bc3f326b71dd084bea47a4be4055838d08ff99501684b
+#PRODUCT: sprucetk
+#EXP_DATE: 2022 06 28
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: e64863f8d12c85b7e243434a494f5f5badec6ea85d89b9e1862716d63b0f2e41
+#PRODUCT: spruce
+#EXP_DATE: 2022 06 28
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: a609eadd2ffbd3ad88d34e1ecc6bb284de952ebc1cb9428e820029f555a9bfb4
+#PRODUCT: szmap
+#EXP_DATE: 2022 06 28
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: ffd477b62db6dc7cd38f9462ee1db91e3d971d6f3d33f911e7895534f534832f
+#PRODUCT: szmaptk
+#EXP_DATE: 2022 06 28
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: 827ee9aaf0b8649060bcff8fc7e5cc0793fed2755c533ba2cbaaefa1edadd217
+#PRODUCT: szybki
+#EXP_DATE: 2022 06 28
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: 11797f949504d5b4fec57b94d1846e9842d2af3d93c0823f8262212a04701cde
+#PRODUCT: case
+#EXP_DATE: 2022 06 28
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: 80d21b4777d0f4b68884fcd0fbaa728eacbe82479e55eac3eafd174468227feb
+#PRODUCT: vida
+#EXP_DATE: 2022 06 28
+#FEATURES: script line
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: 158480a42043db637677f0258efacae198d4ce4df251e65fbff38e7a64c091f7
+#PRODUCT: zap
+#EXP_DATE: 2022 06 28
+#FEATURES: basic toolkit;protein pka;perfect charge;python;java;clr
+#LICENSEE: The Laboratory of Vincent Voelz
+#SITE: Temple University
+LICENSE_KEY: b68a7cf83176f808e7fb960be5fecc8b15e4e8a439108280f45841bc55fe7b82
+
+
+
+
+
+
+
+
+
+
+
+
+
